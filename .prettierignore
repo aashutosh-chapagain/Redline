@@ -1,0 +1,13 @@
+node_modules
+.expo
+dist
+android
+ios
+coverage
+package-lock.json
+
+# drizzle-kit regenerates these in its own format on every `generate` run
+src/db/migrations
+
+# hand-authored prose — don't let Prettier reflow markdown content
+*.md
